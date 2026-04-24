@@ -32,7 +32,7 @@
 - Built CI/CD pipeline using GitHub Actions  
 - Deployed on AWS EC2  
 
-👉 https://github.com/your-username/project-link  
+👉 https://github.com/arikaranredblue-hue/Docker_terraform_ci-cd_core  
 
 ---
 
@@ -42,22 +42,22 @@
 - Configured RDS in private subnet  
 - Integrated CloudWatch for monitoring  
 
-👉 https://github.com/your-username/project-link  
+👉 https://www.linkedin.com/posts/arikaran-cloudops_aws-cloudcomputing-devops-activity-7441468929018925056-lEUv
 
 ---
 
 ## 📊 GitHub Stats
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" height="150"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api?username=arikaranredblue-hue&show_icons=true&theme=tokyonight" height="150"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=arikaranredblue-hue&theme=tokyonight" height="150"/>
 </p>
 
 ---
 
 ## 📈 Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arikaranredblue-hue&theme=tokyo-night"/>
 
 ---
 
@@ -72,11 +72,11 @@
 ## 📫 Connect With Me
 
 <p>
-<a href="https://www.linkedin.com/in/your-id">
+<a href="www.linkedin.com/in/arikaran-cloudops">
 <img src="https://img.shields.io/badge/LinkedIn-Arikaran-blue?logo=linkedin"/>
 </a>
 
-<a href="https://github.com/your-username">
+<a href="https://github.com/arikaranredblue-hue">
 <img src="https://img.shields.io/badge/GitHub-Profile-black?logo=github"/>
 </a>
 </p>
