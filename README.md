@@ -72,7 +72,7 @@
 ## 📫 Connect With Me
 
 <p>
-<a href="www.linkedin.com/in/arikaran-cloudops">
+<a href="https://www.linkedin.com/in/arikaran-cloudops">
 <img src="https://img.shields.io/badge/LinkedIn-Arikaran-blue?logo=linkedin"/>
 </a>
 
